@@ -1,0 +1,6 @@
+name: running_front
+repository: https://github.com/imimtu/Running_Front
+
+packages:
+  - apps/**
+  - packages/**
